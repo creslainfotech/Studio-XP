@@ -1,0 +1,188 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.11.2016 17:09:53
+
+newmtl Body
+	Ns 35.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.4950 0.4950 0.4950
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Exchange_3D\electronics\DJI_Mavic_Pro\Tex\mavic_pro_diff.tif
+	map_Kd D:\Exchange_3D\electronics\DJI_Mavic_Pro\Tex\mavic_pro_diff.tif
+
+newmtl Luminium_blue
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1804 0.1961 0.2157
+	Kd 0.1804 0.1961 0.2157
+	Ks 0.5647 0.5894 0.6247
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Black
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.4500 0.4500 0.4500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Steel
+	Ns 35.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2196 0.2196 0.2275
+	Kd 0.2196 0.2196 0.2275
+	Ks 0.7553 0.7271 0.6635
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Bottom
+	Ns 35.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.8100 0.8100 0.8100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Exchange_3D\electronics\DJI_Mavic_Pro\Tex\mavic_pro_bottom.tif
+	map_Kd D:\Exchange_3D\electronics\DJI_Mavic_Pro\Tex\mavic_pro_bottom.tif
+	map_bump D:\Exchange_3D\electronics\DJI_Mavic_Pro\Tex\mavic_pro_bottom.tif
+	bump D:\Exchange_3D\electronics\DJI_Mavic_Pro\Tex\mavic_pro_bottom.tif
+
+newmtl glass_cam
+	Ns 80.0000
+	Ni 1.5000
+	d 0.2500
+	Tr 0.7500
+	Tf 0.2500 0.2500 0.2500 
+	illum 2
+	Ka 0.1922 0.1922 0.1922
+	Kd 0.1922 0.1922 0.1922
+	Ks 0.8100 0.8100 0.8100
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Lens_cam
+	Ns 50.0000
+	Ni 1.5000
+	d 0.3500
+	Tr 0.6500
+	Tf 0.3500 0.3500 0.3500 
+	illum 2
+	Ka 0.0941 0.2078 0.0196
+	Kd 0.0941 0.2078 0.0196
+	Ks 0.2894 0.6353 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Plastic_gray
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1569 0.1569 0.1569
+	Kd 0.1569 0.1569 0.1569
+	Ks 0.4500 0.4500 0.4500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl light_green
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 1.0000 0.1176
+	Kd 0.0000 1.0000 0.1176
+	Ks 0.8000 0.8000 0.8000
+	Ke 0.0000 0.7500 0.0882
+
+newmtl Luminium
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4667 0.4784 0.4863
+	Kd 0.4667 0.4784 0.4863
+	Ks 0.7200 0.7200 0.7200
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Glass_white
+	Ns 80.0000
+	Ni 1.5000
+	d 0.6000
+	Tr 0.4000
+	Tf 0.6000 0.6000 0.6000 
+	illum 2
+	Ka 0.9412 0.9412 0.9412
+	Kd 0.9412 0.9412 0.9412
+	Ks 0.7200 0.7200 0.7200
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Mirror
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9098 0.9098 0.9098
+	Kd 0.9098 0.9098 0.9098
+	Ks 0.6750 0.6750 0.6750
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Led_red
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 0.0000 0.0000
+	Kd 1.0000 0.0000 0.0000
+	Ks 0.7200 0.7200 0.7200
+	Ke 1.0000 0.0000 0.0000
+
+newmtl Latun
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3216 0.2314 0.1137
+	Kd 0.3216 0.2314 0.1137
+	Ks 0.7059 0.6459 0.3247
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Glass
+	Ns 80.0000
+	Ni 1.5000
+	d 0.3000
+	Tr 0.7000
+	Tf 0.3000 0.3000 0.3000 
+	illum 2
+	Ka 0.9176 0.9176 0.9176
+	Kd 0.9176 0.9176 0.9176
+	Ks 0.7200 0.7200 0.7200
+	Ke 0.0000 0.0000 0.0000

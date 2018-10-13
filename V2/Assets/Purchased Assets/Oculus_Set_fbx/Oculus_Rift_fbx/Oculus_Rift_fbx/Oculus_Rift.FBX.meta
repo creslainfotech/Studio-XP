@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: f9cdda1dfa1b7a2438bd925280f8280b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Oculus_Rift
+    100004: Oculus_Rift01
+    100006: Oculus_Rift_belt
+    100008: Oculus_Rift_belt01
+    100010: Oculus_Rift_body
+    100012: Oculus_Rift_body01
+    100014: Oculus_Rift_cable
+    100016: Oculus_Rift_cable01
+    100018: Oculus_Rift_hphone_L
+    100020: Oculus_Rift_hphone_L01
+    100022: Oculus_Rift_hphone_R
+    100024: Oculus_Rift_hphone_R01
+    100026: Oculus_Rift_inside
+    100028: Oculus_Rift_inside01
+    100030: Oculus_Rift_mask
+    100032: Oculus_Rift_mask01
+    400000: //RootNode
+    400002: Oculus_Rift
+    400004: Oculus_Rift01
+    400006: Oculus_Rift_belt
+    400008: Oculus_Rift_belt01
+    400010: Oculus_Rift_body
+    400012: Oculus_Rift_body01
+    400014: Oculus_Rift_cable
+    400016: Oculus_Rift_cable01
+    400018: Oculus_Rift_hphone_L
+    400020: Oculus_Rift_hphone_L01
+    400022: Oculus_Rift_hphone_R
+    400024: Oculus_Rift_hphone_R01
+    400026: Oculus_Rift_inside
+    400028: Oculus_Rift_inside01
+    400030: Oculus_Rift_mask
+    400032: Oculus_Rift_mask01
+    2100000: Body rubber
+    2100002: Velur
+    2100004: Plastic black
+    2100006: foam rubber
+    2100008: Body plastic
+    2100010: Fabric 1
+    2100012: Velcro
+    2100014: Nylon
+    2100016: Inside mask
+    2100018: Glass
+    2100020: Screen
+    2300000: Oculus_Rift_belt
+    2300002: Oculus_Rift_belt01
+    2300004: Oculus_Rift_body
+    2300006: Oculus_Rift_body01
+    2300008: Oculus_Rift_cable
+    2300010: Oculus_Rift_cable01
+    2300012: Oculus_Rift_hphone_L
+    2300014: Oculus_Rift_hphone_L01
+    2300016: Oculus_Rift_hphone_R
+    2300018: Oculus_Rift_hphone_R01
+    2300020: Oculus_Rift_inside
+    2300022: Oculus_Rift_inside01
+    2300024: Oculus_Rift_mask
+    2300026: Oculus_Rift_mask01
+    3300000: Oculus_Rift_belt
+    3300002: Oculus_Rift_belt01
+    3300004: Oculus_Rift_body
+    3300006: Oculus_Rift_body01
+    3300008: Oculus_Rift_cable
+    3300010: Oculus_Rift_cable01
+    3300012: Oculus_Rift_hphone_L
+    3300014: Oculus_Rift_hphone_L01
+    3300016: Oculus_Rift_hphone_R
+    3300018: Oculus_Rift_hphone_R01
+    3300020: Oculus_Rift_inside
+    3300022: Oculus_Rift_inside01
+    3300024: Oculus_Rift_mask
+    3300026: Oculus_Rift_mask01
+    4300000: Oculus_Rift_cable
+    4300002: Oculus_Rift_mask
+    4300004: Oculus_Rift_belt
+    4300006: Oculus_Rift_hphone_L
+    4300008: Oculus_Rift_inside
+    4300010: Oculus_Rift_body
+    4300012: Oculus_Rift_hphone_R
+    4300014: Oculus_Rift_cable01
+    4300016: Oculus_Rift_mask01
+    4300018: Oculus_Rift_belt01
+    4300020: Oculus_Rift_hphone_L01
+    4300022: Oculus_Rift_inside01
+    4300024: Oculus_Rift_body01
+    4300026: Oculus_Rift_hphone_R01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

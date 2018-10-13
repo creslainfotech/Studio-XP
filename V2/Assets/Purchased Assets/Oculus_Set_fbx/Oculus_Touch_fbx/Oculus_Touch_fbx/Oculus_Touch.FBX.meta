@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 32227d769e84a5f4c802c2d6d4f14d8f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: NS_Oculus_Touch_Joystik_L
+    100002: NS_Oculus_Touch_Joystik_L01
+    100004: NS_Oculus_Touch_Joystik_L02
+    100006: NS_Oculus_Touch_Joystik_R
+    100008: NS_Oculus_Touch_Joystik_R01
+    100010: NS_Oculus_Touch_Joystik_R02
+    100012: //RootNode
+    100014: Oculus_Touch_L
+    100016: Oculus_Touch_L01
+    100018: Oculus_Touch_L02
+    100020: Oculus_Touch_R
+    100022: Oculus_Touch_R01
+    100024: Oculus_Touch_R02
+    100026: SG2_Oculus_Touch_L_01
+    100028: SG2_Oculus_Touch_L_02
+    100030: SG2_Oculus_Touch_L_03
+    100032: SG2_Oculus_Touch_R_01
+    100034: SG2_Oculus_Touch_R_02
+    100036: SG2_Oculus_Touch_R_03
+    100038: SM2_Oculus_Touch_L_02
+    100040: SM2_Oculus_Touch_L_03
+    100042: SM2_Oculus_Touch_L_04
+    100044: SM2_Oculus_Touch_R_02
+    100046: SM2_Oculus_Touch_R_03
+    100048: SM2_Oculus_Touch_R_04
+    400000: NS_Oculus_Touch_Joystik_L
+    400002: NS_Oculus_Touch_Joystik_L01
+    400004: NS_Oculus_Touch_Joystik_L02
+    400006: NS_Oculus_Touch_Joystik_R
+    400008: NS_Oculus_Touch_Joystik_R01
+    400010: NS_Oculus_Touch_Joystik_R02
+    400012: //RootNode
+    400014: Oculus_Touch_L
+    400016: Oculus_Touch_L01
+    400018: Oculus_Touch_L02
+    400020: Oculus_Touch_R
+    400022: Oculus_Touch_R01
+    400024: Oculus_Touch_R02
+    400026: SG2_Oculus_Touch_L_01
+    400028: SG2_Oculus_Touch_L_02
+    400030: SG2_Oculus_Touch_L_03
+    400032: SG2_Oculus_Touch_R_01
+    400034: SG2_Oculus_Touch_R_02
+    400036: SG2_Oculus_Touch_R_03
+    400038: SM2_Oculus_Touch_L_02
+    400040: SM2_Oculus_Touch_L_03
+    400042: SM2_Oculus_Touch_L_04
+    400044: SM2_Oculus_Touch_R_02
+    400046: SM2_Oculus_Touch_R_03
+    400048: SM2_Oculus_Touch_R_04
+    2100000: rubber black
+    2100002: Body matte
+    2100004: Body gloss
+    2300000: NS_Oculus_Touch_Joystik_L
+    2300002: NS_Oculus_Touch_Joystik_L01
+    2300004: NS_Oculus_Touch_Joystik_L02
+    2300006: NS_Oculus_Touch_Joystik_R
+    2300008: NS_Oculus_Touch_Joystik_R01
+    2300010: NS_Oculus_Touch_Joystik_R02
+    2300012: SG2_Oculus_Touch_L_01
+    2300014: SG2_Oculus_Touch_L_02
+    2300016: SG2_Oculus_Touch_L_03
+    2300018: SG2_Oculus_Touch_R_01
+    2300020: SG2_Oculus_Touch_R_02
+    2300022: SG2_Oculus_Touch_R_03
+    2300024: SM2_Oculus_Touch_L_02
+    2300026: SM2_Oculus_Touch_L_03
+    2300028: SM2_Oculus_Touch_L_04
+    2300030: SM2_Oculus_Touch_R_02
+    2300032: SM2_Oculus_Touch_R_03
+    2300034: SM2_Oculus_Touch_R_04
+    3300000: NS_Oculus_Touch_Joystik_L
+    3300002: NS_Oculus_Touch_Joystik_L01
+    3300004: NS_Oculus_Touch_Joystik_L02
+    3300006: NS_Oculus_Touch_Joystik_R
+    3300008: NS_Oculus_Touch_Joystik_R01
+    3300010: NS_Oculus_Touch_Joystik_R02
+    3300012: SG2_Oculus_Touch_L_01
+    3300014: SG2_Oculus_Touch_L_02
+    3300016: SG2_Oculus_Touch_L_03
+    3300018: SG2_Oculus_Touch_R_01
+    3300020: SG2_Oculus_Touch_R_02
+    3300022: SG2_Oculus_Touch_R_03
+    3300024: SM2_Oculus_Touch_L_02
+    3300026: SM2_Oculus_Touch_L_03
+    3300028: SM2_Oculus_Touch_L_04
+    3300030: SM2_Oculus_Touch_R_02
+    3300032: SM2_Oculus_Touch_R_03
+    3300034: SM2_Oculus_Touch_R_04
+    4300000: NS_Oculus_Touch_Joystik_R
+    4300002: SG2_Oculus_Touch_R_01
+    4300004: SM2_Oculus_Touch_R_02
+    4300006: SG2_Oculus_Touch_L_01
+    4300008: NS_Oculus_Touch_Joystik_L
+    4300010: SM2_Oculus_Touch_L_02
+    4300012: NS_Oculus_Touch_Joystik_R01
+    4300014: SG2_Oculus_Touch_R_02
+    4300016: SM2_Oculus_Touch_R_03
+    4300018: SG2_Oculus_Touch_L_02
+    4300020: NS_Oculus_Touch_Joystik_L01
+    4300022: SM2_Oculus_Touch_L_03
+    4300024: SG2_Oculus_Touch_L_03
+    4300026: SM2_Oculus_Touch_L_04
+    4300028: NS_Oculus_Touch_Joystik_L02
+    4300030: SG2_Oculus_Touch_R_03
+    4300032: SM2_Oculus_Touch_R_04
+    4300034: NS_Oculus_Touch_Joystik_R02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
